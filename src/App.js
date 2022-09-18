@@ -1,9 +1,12 @@
 import React from 'react';
-import Component_1 from "./Component_1";
+import Component1 from './components/Component_1';
+//proj//src//
+
+
 class App extends React.Component{
   render(){
     return (
-    <Component_1/>
+    <Component1/>
     )
    
   }
